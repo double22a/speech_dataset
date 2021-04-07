@@ -24,7 +24,7 @@
 | TED-LIUM Release 3 | 430 | https://openslr.org/51/ |
 | Multilingual LibriSpeech | 44659 | https://openslr.org/94/ | limited supervision
 | SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | 
-
+| Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
 
 
 **Chinese-English**
