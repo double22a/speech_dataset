@@ -28,6 +28,6 @@
 
 
 **Chinese-English**
-| name | duration/h | address |
-| --- | --- | --- |
-| TAL CSASR | 587 | https://ai.100tal.com/dataset |
+| name | duration/h | address | remark
+| --- | --- | --- | --- 
+| TAL CSASR | 587 | https://ai.100tal.com/dataset | if available
