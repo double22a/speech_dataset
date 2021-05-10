@@ -25,6 +25,7 @@
 | Multilingual LibriSpeech | 44659 | https://openslr.org/94/ | limited supervision
 | SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | 
 | Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
+| Accented English | 160 | https://datatang.com/INTERSPEECH2020 | if available
 
 
 **Chinese-English**
