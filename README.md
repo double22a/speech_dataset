@@ -12,7 +12,7 @@
 | Aishell2 | 1000 | http://www.aishelltech.com/aishell_2 | if available
 | TAL ASR | 100 | https://ai.100tal.com/dataset | if available
 | Common Voice | 78 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
-
+| ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 
 
 **English**
@@ -32,3 +32,4 @@
 | name | duration/h | address | remark
 | --- | --- | --- | --- 
 | TAL CSASR | 587 | https://ai.100tal.com/dataset | if available
+| ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
