@@ -27,6 +27,7 @@
 | SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | 
 | Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
 | 2020AESRC | 160 | https://datatang.com/INTERSPEECH2020 | if available
+| GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | 
 
 
 **Chinese-English**
