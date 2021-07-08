@@ -30,6 +30,7 @@
 | Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
 | 2020AESRC | 160 | https://datatang.com/INTERSPEECH2020 | if available
 | GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | if available
+| The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 
 
 
