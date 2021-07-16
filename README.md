@@ -10,7 +10,7 @@
 | aidatatang | 200 | https://openslr.org/62/ |
 | MagicData | 755 | https://openslr.org/68/ |
 | Aishell2 | 1000 | http://www.aishelltech.com/aishell_2 | if available
-| TAL ASR | 100 | https://ai.100tal.com/dataset | if available
+| TAL ASR | 100 | https://ai.100tal.com/dataset |
 | Common Voice | 78 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
@@ -38,7 +38,7 @@
 **Chinese-English**
 | name | duration/h | address | remark
 | --- | --- | --- | --- 
-| TAL CSASR | 587 | https://ai.100tal.com/dataset | if available
+| TAL CSASR | 587 | https://ai.100tal.com/dataset |
 | ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
 
 
