@@ -45,6 +45,7 @@
 | --- | --- | --- | ---
 | Common Voice | 5 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 | Japanese_Scripted_Speech_Corpus_Daily_Use_Sentence | 18 | https://magichub.io/cn/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ | 
+| LaboroTVSpeech | 2000 | https://arxiv.org/pdf/2103.14736.pdf | 
 
 
 **Korean (ko-KR)**
