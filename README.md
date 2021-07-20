@@ -58,4 +58,4 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Common Voice | 130 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
-
+| OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
