@@ -17,7 +17,6 @@
 | VMR | 1505 | https://www.datatang.com/VMR | if available
 
 
-
 **English**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
@@ -34,7 +33,6 @@
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 |
 
 
-
 **Chinese-English**
 | name | duration/h | address | remark
 | --- | --- | --- | --- 
@@ -48,4 +46,16 @@
 | Common Voice | 5 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 | Japanese_Scripted_Speech_Corpus_Daily_Use_Sentence | 18 | https://magichub.io/cn/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ | 
 
+
+**Korean (ko-KR)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| korean-scripted-speech-corpus-daily-use-sentence | 4.3 | https://magichub.io/cn/datasets/korean-scripted-speech-corpus-daily-use-sentence/ | 
+| korean-conversational-speech-corpus | 5.22 | https://magichub.io/cn/datasets/korean-conversational-speech-corpus/ |
+
+
+**Russian (ru-RU)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| Common Voice | 130 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 
