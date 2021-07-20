@@ -42,3 +42,10 @@
 | ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
 
 
+**Japanese (ja-JP)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| Common Voice | 5 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
+| Japanese_Scripted_Speech_Corpus_Daily_Use_Sentence | 18 | https://magichub.io/cn/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ | 
+
+
