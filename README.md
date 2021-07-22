@@ -67,3 +67,11 @@
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 
 
+
+**noise**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| MUSAN | - | https://openslr.org/17/ |
+| Room Impulse Response and Noise Database | - | https://openslr.org/28/ | 
+
+
