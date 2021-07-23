@@ -30,7 +30,7 @@
 | 2020AESRC | 160 | https://datatang.com/INTERSPEECH2020 | if available
 | GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | if available
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
-| Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 |
+| Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 
 
 
@@ -83,6 +83,7 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Aishell3 | 85 | https://openslr.org/93/ | 
+| Hi-Fi Multi-Speaker English TTS Dataset | 291.6 | https://openslr.org/109/ | 
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -96,6 +97,6 @@
 **English**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
-| CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html |
+| CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html | if available
 
 
