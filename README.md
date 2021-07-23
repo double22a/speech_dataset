@@ -1,4 +1,4 @@
-# The Dataset of Speech Recognition
+## The Dataset of Speech Recognition
 
 **Chinese**
 | name | duration/h | address | remark
@@ -15,7 +15,6 @@
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | VMR | 1505 | https://www.datatang.com/VMR | if available
-| Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios
 
 
 
@@ -74,5 +73,25 @@
 | --- | --- | --- | ---
 | MUSAN | - | https://openslr.org/17/ |
 | Room Impulse Response and Noise Database | - | https://openslr.org/28/ | 
+
+
+## The Dataset of Speech Synthesis
+
+**Chinese**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| Aishell3 | 85 | https://openslr.org/93/ | 
+
+
+## The Dataset of Speech Recognition & Speaker Diarization
+**Chinese**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios
+
+**English**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html |
 
 
