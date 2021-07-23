@@ -116,4 +116,4 @@
 **English**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
-| VoxCeleb Data | - | https://openslr.org/49/ |
+| VoxCeleb Data | - | http://www.robots.ox.ac.uk/~vgg/data/voxceleb/ |
