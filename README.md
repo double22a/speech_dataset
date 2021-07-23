@@ -83,7 +83,12 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Aishell3 | 85 | https://openslr.org/93/ | 
+
+**English**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
 | Hi-Fi Multi-Speaker English TTS Dataset | 291.6 | https://openslr.org/109/ | 
+| LibriTTS corpus | 585 | https://openslr.org/60/ | 
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
