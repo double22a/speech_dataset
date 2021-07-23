@@ -104,4 +104,16 @@
 | --- | --- | --- | ---
 | CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html | if available
 
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
+## The Dataset of Speaker Recognition
+**Chinese**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| CN-Celeb | - | https://openslr.org/82/ |
+
+**English**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| VoxCeleb Data | - | https://openslr.org/49/ |
