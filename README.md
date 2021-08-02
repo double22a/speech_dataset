@@ -9,7 +9,7 @@
 | Primewords | 99 | https://openslr.org/47/ |
 | aidatatang | 200 | https://openslr.org/62/ |
 | MagicData | 755 | https://openslr.org/68/ |
-| ASR&SD | 160+20 | http://ncmmsc2021.org/competition2.html | if available
+| ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available
 | Aishell2 | 1000 | http://www.aishelltech.com/aishell_2 | if available
 | TAL ASR | 100 | https://ai.100tal.com/dataset |
 | Common Voice | 78 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
@@ -99,7 +99,7 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios
-| ASR&SD | 160+20 | http://ncmmsc2021.org/competition2.html | if available
+| ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available
 
 **English**
 | name | duration/h | address | remark
