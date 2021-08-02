@@ -15,7 +15,7 @@
 | Common Voice | 78 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
-| VMR | 1505 | https://www.datatang.com/VMR | if available
+| aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
 
 
 **English**
