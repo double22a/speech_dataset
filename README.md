@@ -17,7 +17,6 @@
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
 
-
 **English**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
@@ -33,14 +32,11 @@
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 
-
-
 **Chinese-English**
 | name | duration/h | address | remark
 | --- | --- | --- | --- 
 | TAL CSASR | 587 | https://ai.100tal.com/dataset |
 | ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
-
 
 **Japanese (ja-JP)**
 | name | duration/h | address | remark
@@ -50,15 +46,11 @@
 | LaboroTVSpeech | 2000 | https://arxiv.org/pdf/2103.14736.pdf | 
 | CSJ | 650 | https://github.com/kaldi-asr/kaldi/tree/master/egs/csj |
 
-
-
 **Korean (ko-KR)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | korean-scripted-speech-corpus-daily-use-sentence | 4.3 | https://magichub.io/cn/datasets/korean-scripted-speech-corpus-daily-use-sentence/ | 
 | korean-conversational-speech-corpus | 5.22 | https://magichub.io/cn/datasets/korean-conversational-speech-corpus/ |
-
-
 
 **Russian (ru-RU)**
 | name | duration/h | address | remark
@@ -66,14 +58,11 @@
 | Common Voice | 130 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 
-
-
 **noise**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | MUSAN | - | https://openslr.org/17/ |
 | Room Impulse Response and Noise Database | - | https://openslr.org/28/ | 
-
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
