@@ -31,6 +31,7 @@
 | GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | if available
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
+| VoxPopuli | 24100+543 | https://arxiv.org/pdf/2101.00390.pdf | 24100(unlabeled), 543(transcribed)
 
 **Chinese-English**
 | name | duration/h | address | remark
