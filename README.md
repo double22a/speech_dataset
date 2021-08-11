@@ -25,7 +25,7 @@
 | ST-AEDS-20180100 | 4.7 | http://www.openslr.org/45/ |
 | TED-LIUM Release 3 | 430 | https://openslr.org/51/ |
 | Multilingual LibriSpeech | 44659 | https://openslr.org/94/ | limited supervision
-| SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | 
+| SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | if available
 | Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
 | 2020AESRC | 160 | https://datatang.com/INTERSPEECH2020 | if available
 | GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | if available
