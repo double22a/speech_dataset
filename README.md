@@ -12,7 +12,7 @@
 | ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available
 | Aishell2 | 1000 | http://www.aishelltech.com/aishell_2 | if available
 | TAL ASR | 100 | https://ai.100tal.com/dataset |
-| Common Voice | 78 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
+| Common Voice | 63 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
@@ -20,7 +20,7 @@
 **English**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
-| Common Voice | 2181 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
+| Common Voice | 2015 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | LibriSpeech | 960 | https://openslr.org/12/ | 
 | ST-AEDS-20180100 | 4.7 | http://www.openslr.org/45/ |
 | TED-LIUM Release 3 | 430 | https://openslr.org/51/ |
@@ -42,7 +42,7 @@
 **Japanese (ja-JP)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
-| Common Voice | 5 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
+| Common Voice | 26 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | Japanese_Scripted_Speech_Corpus_Daily_Use_Sentence | 18 | https://magichub.io/cn/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ | 
 | LaboroTVSpeech | 2000 | https://arxiv.org/pdf/2103.14736.pdf | 
 | CSJ | 650 | https://github.com/kaldi-asr/kaldi/tree/master/egs/csj |
@@ -56,7 +56,7 @@
 **Russian (ru-RU)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
-| Common Voice | 130 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 6.1 
+| Common Voice | 148 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 
 **noise**
