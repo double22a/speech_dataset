@@ -59,11 +59,12 @@
 | Common Voice | 148 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 
-**noise**
+**noise & nonspeech**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | MUSAN | - | https://openslr.org/17/ |
 | Room Impulse Response and Noise Database | - | https://openslr.org/28/ | 
+| AudioSet | - | https://ieeexplore.ieee.org/document/7952261 |
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
