@@ -16,6 +16,7 @@
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
+| WenetSpeech | 10000 | https://github.com/wenet-e2e/WenetSpeech | if available
 
 **English**
 | name | duration/h | address | remark
