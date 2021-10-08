@@ -11,3 +11,5 @@
 - 2106, multi-domain English speech recognition corpus, [GigaSpeech: An Evolving, Multi-domain ASR Corpus with 10,000 Hours of Transcribed Audio](https://arxiv.org/abs/2106.06909)
 
 - 2107, Large-Scale Diverse English Dataset, [The People’s Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage](https://openreview.net/pdf?id=R8CwidgJ0yT)
+
+- 2110, multi-domain Mandarin corpus consisting of 10000+ hours high-quality labeled speech, [WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition](https://arxiv.org/abs/2110.03370)
