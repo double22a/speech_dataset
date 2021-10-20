@@ -16,7 +16,7 @@
 | ASRU2019 ASR | 500 | https://www.datatang.com/competition | if available
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
-| WenetSpeech | 10000 | https://github.com/wenet-e2e/WenetSpeech | if available
+| WenetSpeech | 10000 | https://github.com/wenet-e2e/WenetSpeech | 
 
 **English**
 | name | duration/h | address | remark
@@ -29,7 +29,7 @@
 | SPGISpeech | 5000 | https://datasets.kensho.com/datasets/scribe | if available
 | Speech Commands | 10 | https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data | 
 | 2020AESRC | 160 | https://datatang.com/INTERSPEECH2020 | if available
-| GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | if available
+| GigaSpeech | 10000 | https://github.com/SpeechColab/GigaSpeech | 
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 | VoxPopuli | 24100+543 | https://arxiv.org/pdf/2101.00390.pdf | 24100(unlabeled), 543(transcribed)
