@@ -1,8 +1,8 @@
 ## The Dataset of Speech Recognition
 
 **Chinese**
-| name | duration/h | address | remark
-| --- | --- | --- | ---
+| name | duration/h | address | remark | application 
+| --- | --- | --- | --- | ---
 | THCHS-30 | 30 | https://openslr.org/18/ |
 | Aishell | 150 | https://openslr.org/33/ |
 | ST-CMDS | 110 | https://openslr.org/38/ |
@@ -17,6 +17,7 @@
 | 2021 SLT CSRC | 398 | https://www.data-baker.com/csrc_challenge.html | if available
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
 | WenetSpeech | 10000 | https://github.com/wenet-e2e/WenetSpeech | 
+| KeSpeech | 1542 | https://openreview.net/forum?id=b3Zoeq2sCLq |  | speech recognition, speaker verification, subdialect identification, voice conversion
 
 **English**
 | name | duration/h | address | remark
@@ -103,9 +104,10 @@
 
 ## The Dataset of Speaker Recognition
 **Chinese**
-| name | duration/h | address | remark
-| --- | --- | --- | ---
+| name | duration/h | address | remark | application
+| --- | --- | --- | --- | --- 
 | CN-Celeb | - | https://openslr.org/82/ |
+| KeSpeech | 1542 | https://openreview.net/forum?id=b3Zoeq2sCLq |  | speech recognition, speaker verification, subdialect identification, voice conversion
 
 **English**
 | name | duration/h | address | remark
