@@ -13,3 +13,5 @@
 - 2107, Large-Scale Diverse English Dataset, [The People’s Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage](https://openreview.net/pdf?id=R8CwidgJ0yT)
 
 - 2110, multi-domain Mandarin corpus consisting of 10000+ hours high-quality labeled speech, [WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition](https://arxiv.org/abs/2110.03370)
+
+- 2110, 120 hours of real recorded Mandarin meeting data, [M2MET: THE ICASSP 2022 MULTI-CHANNEL MULTI-PARTY MEETING TRANSCRIPTION CHALLENGE](https://arxiv.org/pdf/2110.07393.pdf)
