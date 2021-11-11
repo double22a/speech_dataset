@@ -89,17 +89,17 @@
 
 ## The Dataset of Speech Recognition & Speaker Diarization
 **Chinese**
-| name | duration/h | address | remark
-| --- | --- | --- | ---
-| Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios
-| ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available
-| zhijiangcup | - | https://zhijiangcup.zhejianglab.com/zhijiang/match/details/id/6.html | if available
-| M2MET | 120 | https://arxiv.org/pdf/2110.07393.pdf | 8-channel, conference scenarios
+| name | duration/h | address | remark | application
+| --- | --- | --- | --- | ---
+| Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios | speech recognition, speaker diarization
+| ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available | speech recognition, speaker diarization
+| zhijiangcup | - | https://zhijiangcup.zhejianglab.com/zhijiang/match/details/id/6.html | if available | speech recognition, speaker diarization
+| M2MET | 120 | https://arxiv.org/pdf/2110.07393.pdf | 8-channel, conference scenarios | speech recognition, speaker diarization
 
 **English**
-| name | duration/h | address | remark
-| --- | --- | --- | ---
-| CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html | if available
+| name | duration/h | address | remark | application
+| --- | --- | --- | --- | ---
+| CHiME-6 | - | https://chimechallenge.github.io/chime6/download.html | if available | speech recognition, speaker diarization
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
