@@ -94,6 +94,7 @@
 | Aishell4 | 120 | https://openslr.org/111/ | 8-channel, conference scenarios
 | ASR&SD | 160 | http://ncmmsc2021.org/competition2.html | if available
 | zhijiangcup | - | https://zhijiangcup.zhejianglab.com/zhijiang/match/details/id/6.html | if available
+| M2MET | 120 | https://arxiv.org/pdf/2110.07393.pdf | 8-channel, conference scenarios
 
 **English**
 | name | duration/h | address | remark
