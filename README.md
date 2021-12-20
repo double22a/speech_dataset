@@ -48,6 +48,7 @@
 | Japanese_Scripted_Speech_Corpus_Daily_Use_Sentence | 18 | https://magichub.io/cn/datasets/japanese-scripted-speech-corpus-daily-use-sentence/ | 
 | LaboroTVSpeech | 2000 | https://arxiv.org/pdf/2103.14736.pdf | 
 | CSJ | 650 | https://github.com/kaldi-asr/kaldi/tree/master/egs/csj |
+| JTubeSpeech | 1300 | https://arxiv.org/pdf/2112.09323.pdf
 
 **Korean (ko-KR)**
 | name | duration/h | address | remark
