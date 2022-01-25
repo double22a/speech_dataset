@@ -78,6 +78,7 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Aishell3 | 85 | https://openslr.org/93/ | 
+| Opencpop | - | https://wenet.org.cn/opencpop/download/ | Singing Voice Synthesis
 
 **English**
 | name | duration/h | address | remark
