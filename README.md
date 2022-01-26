@@ -62,6 +62,26 @@
 | Common Voice | 148 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 
+**French (fr-Fr)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+
+**Spanish (es-ES)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+
+**Turkish (tr-TR)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+
+**Arabic (ar)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+
 **noise & nonspeech**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
