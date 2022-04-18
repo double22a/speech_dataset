@@ -34,6 +34,7 @@
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 | VoxPopuli | 24100+543 | https://arxiv.org/pdf/2101.00390.pdf | 24100(unlabeled), 543(transcribed)
+| MagicData-RAMC | 180 | https://arxiv.org/pdf/2203.16844.pdf | conversational speech data recorded from native speakers of Mandarin Chinese
 
 **Chinese-English**
 | name | duration/h | address | remark
