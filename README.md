@@ -18,7 +18,7 @@
 | aidatatang_1505zh | 1505 | https://datatang.com/opensource | if available
 | WenetSpeech | 10000 | https://github.com/wenet-e2e/WenetSpeech | 
 | KeSpeech | 1542 | https://openreview.net/forum?id=b3Zoeq2sCLq |  | speech recognition, speaker verification, subdialect identification, voice conversion
-| MagicData-RAMC | 180 | https://arxiv.org/pdf/2203.16844.pdf | conversational speech data recorded from native speakers of Mandarin Chinese
+| MagicData-RAMC | 180 | https://arxiv.org/pdf/2203.16844.pdf | conversational speech data recorded from native speakers of Mandarin Chinese |
 
 **English**
 | name | duration/h | address | remark
