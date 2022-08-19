@@ -22,4 +22,7 @@
 
 - 2021, a large-scale Japanese ASR benchmark with more than 1,300 hours of data, [JTubeSpeech: corpus of Japanese speech collected from YouTube for speech recognition and speaker verification](https://arxiv.org/abs/2112.09323)
 
-- 2022,  a publicly available highquality Mandarin singing corpus designed for singing voice synthesis, [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/pdf/2201.07429.pdf)
+- 2022, a publicly available highquality Mandarin singing corpus designed for singing voice synthesis, [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/pdf/2201.07429.pdf)
+
+- 2022, a new corpus of Mandarin-English code-switching speech recognition, [TALCS: AN OPEN-SOURCE MANDARIN-ENGLISHCODE-SWITCHINGCORPUS AND A SPEECH RECOGNITION BASELINE](https://arxiv.org/pdf/2206.13135.pdf)
+
