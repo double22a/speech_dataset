@@ -40,6 +40,7 @@
 **Chinese-English**
 | name | duration/h | address | remark
 | --- | --- | --- | --- 
+| SEAME | 30 | https://www.isca-speech.org/archive_v0/archive_papers/interspeech_2010/i10_1986.pdf |
 | TAL CSASR | 587 | https://ai.100tal.com/dataset |
 | ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
 | ASCEND | 10.62 | https://arxiv.org/pdf/2112.06223.pdf |
