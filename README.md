@@ -42,6 +42,7 @@
 | --- | --- | --- | --- 
 | TAL CSASR | 587 | https://ai.100tal.com/dataset |
 | ASRU2019 CSASR | 200 | https://www.datatang.com/competition | if available
+| ASCEND | 10.62 | https://arxiv.org/pdf/2112.06223.pdf |
 
 **Japanese (ja-JP)**
 | name | duration/h | address | remark
