@@ -20,6 +20,7 @@
 | KeSpeech | 1542 | https://openreview.net/forum?id=b3Zoeq2sCLq |  | speech recognition, speaker verification, subdialect identification, voice conversion
 | MagicData-RAMC | 180 | https://arxiv.org/pdf/2203.16844.pdf | conversational speech data recorded from native speakers of Mandarin Chinese |
 | Mandarin Heavy Accent Conversational Speech Corpus | 58.78 | https://magichub.com/datasets/mandarin-heavy-accent-conversational-speech-corpus/ |
+| Free ST Chinese Mandarin Corpus | - | https://openslr.org/38/ |
 
 **English**
 | name | duration/h | address | remark
@@ -36,6 +37,7 @@
 | The People’s Speech | 31400 | https://openreview.net/pdf?id=R8CwidgJ0yT |
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 | VoxPopuli | 24100+543 | https://arxiv.org/pdf/2101.00390.pdf | 24100(unlabeled), 543(transcribed)
+| CMU Wilderness Multilingual Speech Dataset | 13 | http://festvox.org/cmu_wilderness/ | Multilingual
 
 **Chinese-English**
 | name | duration/h | address | remark
@@ -109,6 +111,8 @@
 | --- | --- | --- | ---
 | Hi-Fi Multi-Speaker English TTS Dataset | 291.6 | https://openslr.org/109/ | 
 | LibriTTS corpus | 585 | https://openslr.org/60/ | 
+| Speechocean762 | - | https://www.openslr.org/101/ | 
+| RyanSpeech | - | http://mohammadmahoor.com/ryanspeech/ |
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -136,6 +140,8 @@
 | --- | --- | --- | --- | --- 
 | CN-Celeb | - | https://openslr.org/82/ |
 | KeSpeech | 1542 | https://openreview.net/forum?id=b3Zoeq2sCLq |  | speech recognition, speaker verification, subdialect identification, voice conversion
+| MTASS | 55.6 | https://github.com/Windstudent/Complex-MTASSNet |  |
+| THCHS-30 | 40 | http://www.openslr.org/18/ |  |
 
 **English**
 | name | duration/h | address | remark
