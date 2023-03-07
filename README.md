@@ -112,7 +112,7 @@
 | Hi-Fi Multi-Speaker English TTS Dataset | 291.6 | https://openslr.org/109/ | 
 | LibriTTS corpus | 585 | https://openslr.org/60/ | 
 | Speechocean762 | - | https://www.openslr.org/101/ | 
-| RyanSpeech | - | http://mohammadmahoor.com/ryanspeech/ |
+| RyanSpeech | 10 | http://mohammadmahoor.com/ryanspeech/ |
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
