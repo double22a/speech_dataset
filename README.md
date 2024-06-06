@@ -147,3 +147,9 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | VoxCeleb Data | - | http://www.robots.ox.ac.uk/~vgg/data/voxceleb/ |
+
+## The Dataset of Voice Activity Detection
+**French**
+| name | duration/h | address | remark | application
+| --- | --- | --- | --- | ---
+| InaGVAD | 5 | https://github.com/ina-foss/InaGVAD | 10 radio and 18 TV channels|  Voice Activity Detection, Speaker Gender Segmentation, Gender Monitoring
