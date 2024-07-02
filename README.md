@@ -38,6 +38,7 @@
 | Earnings-21 | 39 | https://arxiv.org/abs/2104.11348 | 
 | VoxPopuli | 24100+543 | https://arxiv.org/pdf/2101.00390.pdf | 24100(unlabeled), 543(transcribed)
 | CMU Wilderness Multilingual Speech Dataset | 13 | http://festvox.org/cmu_wilderness/ | Multilingual
+| MSR-86K | 9795.46 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **Chinese-English**
 | name | duration/h | address | remark
@@ -55,28 +56,33 @@
 | LaboroTVSpeech | 2000 | https://arxiv.org/pdf/2103.14736.pdf | 
 | CSJ | 650 | https://github.com/kaldi-asr/kaldi/tree/master/egs/csj |
 | JTubeSpeech | 1300 | https://arxiv.org/pdf/2112.09323.pdf
+| MSR-86K | 1779.03 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **Korean (ko-KR)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | korean-scripted-speech-corpus-daily-use-sentence | 4.3 | https://magichub.io/cn/datasets/korean-scripted-speech-corpus-daily-use-sentence/ | 
 | korean-conversational-speech-corpus | 5.22 | https://magichub.io/cn/datasets/korean-conversational-speech-corpus/ |
+| MSR-86K | 10338.66 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **Russian (ru-RU)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | Common Voice | 148 | https://commonvoice.mozilla.org/zh-CN/datasets | Common Voice Corpus 7.0 
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
+| MSR-86K | 3188.52 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **French (fr-Fr)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+| MSR-86K | 8316.70 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **Spanish (es-ES)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+| MSR-86K | 13976.84 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **Turkish (tr-TR)**
 | name | duration/h | address | remark
@@ -87,6 +93,7 @@
 | name | duration/h | address | remark
 | --- | --- | --- | ---
 | MediaSpeech | 10 | https://arxiv.org/pdf/2103.16193.pdf | ASR system evaluation dataset
+| MSR-86K | 873.84 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
 **noise & nonspeech**
 | name | duration/h | address | remark
