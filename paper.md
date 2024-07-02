@@ -36,3 +36,7 @@
 
 - 2022.06, a new corpus of Mandarin-English code-switching speech recognition, [TALCS: AN OPEN-SOURCE MANDARIN-ENGLISHCODE-SWITCHINGCORPUS AND A SPEECH RECOGNITION BASELINE](https://arxiv.org/pdf/2206.13135.pdf)
 
+- 2024.06, a large-scale, multi-domain, multilingual speech recognition corpus, [GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement](https://arxiv.org/pdf/2406.11546)
+
+- 2024.06, anevolving, large-scalemultilingual corpus for speech recognitionresearch, [MSR-86K:An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research](https://www.arxiv.org/pdf/2406.18301)
+
