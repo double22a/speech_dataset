@@ -72,6 +72,11 @@
 | OpenSTT | 20000 | https://arxiv.org/pdf/2006.08274.pdf | limited supervision
 | MSR-86K | 3188.52 | https://huggingface.co/datasets/Alex-Song/MSR-86K | Multilingual
 
+**Italian (it-IT)**
+| name | duration/h | address | remark
+| --- | --- | --- | ---
+| Emozionalmente | - | [IEEE](https://ieeexplore.ieee.org/abstract/document/10879457), [Colab](https://colab.research.google.com/drive/1P2qHb7mwYZSPxbQZ07S7NDH-2vWv38YS?usp=sharing), [Zenodo](https://zenodo.org/records/12616095) | 6902 acted samples by 431 non-professional speakers, 18 reference sentences (validated), simulating Big Six emotions (anger, disgust, fear, happiness, sadness, surprise) + neutrality
+
 **French (fr-Fr)**
 | name | duration/h | address | remark
 | --- | --- | --- | ---
